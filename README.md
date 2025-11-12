@@ -1,8 +1,10 @@
-Hi, I'm interested in distributed systems, scalability, and performance.
+Hi, I'm interested in distributed systems and systems performance.
 
-**My projects:**
+**My Research**
+- I attended [Third ACM Europe Summer School on
+Distributed and Replicated Environments (DARE 2025)](https://dare-lisbon.github.io/)
+- Currently I'm working on MyDenicek, a local-first version of [Denicek: Computational Substrate for Document-Oriented End-User Programming](https://dl.acm.org/doi/10.1145/3746059.3747646)
+
+**My Hobby Projects:**
 - Playground of Causal Broadcast https://krsion.github.io/causal-broadcast/
 - Time tracker saving data to local storage which I use for work. https://krsion.github.io/time-tracker/
-
-**What I'm up to:**
-- I'm visiting https://dare-lisbon.github.io/
