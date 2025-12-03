@@ -7,6 +7,8 @@ Hi, I'm interested in distributed systems and systems performance.
 - MSc Student of Computer Science - Software and Data Engineering at Charles University, Faculty of Mathematics and Physics
 - Attended [Third ACM Europe Summer School on
 Distributed and Replicated Environments (DARE 2025)](https://dare-lisbon.github.io/)
+- Semestral project from advanced web apps: https://github.com/krsion/nswi-153-web-crawler
+- Bachelor Thesis: https://github.com/krsion/prague-sky-model-webcam-calibration
 
 **Hobby Projects:**
 - Playground of Causal Broadcast https://krsion.github.io/causal-broadcast/
