@@ -1,6 +1,9 @@
 Hi, I'm interested in distributed systems and systems performance.
 
+
+
 News:
+- February 2026 - Start of Internship at Microsoft Prague.
 - November 2025 - [Second Foundation EnergyHack](https://www.energyhack.cz/) winner.
 - September 2025 - Attended [Third ACM Europe Summer School on Distributed and Replicated Environments (DARE 2025)](https://dare-lisbon.github.io/).
 
