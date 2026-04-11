@@ -8,7 +8,7 @@ News:
 - September 2025 - Attended [Third ACM Europe Summer School on Distributed and Replicated Environments (DARE 2025)](https://dare-lisbon.github.io/).
 
 **Research**
-- I'm working on [MyDenicek](https://krsion.github.io/mydenicek), a local-first version of [Denicek: Computational Substrate for Document-Oriented End-User Programming](https://dl.acm.org/doi/10.1145/3746059.3747646)
+- I'm working on [MyDenicek](https://krsion.github.io/mydenicek), a CRDT powered local-first version of [Denicek: Computational Substrate for Document-Oriented End-User Programming](https://dl.acm.org/doi/10.1145/3746059.3747646)
 
 **Education**
 - MSc Student of Computer Science - Software and Data Engineering at Charles University, Faculty of Mathematics and Physics
