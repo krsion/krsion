@@ -12,5 +12,5 @@ News:
 - Semestral project from advanced web apps: https://github.com/krsion/nswi-153-web-crawler
 - Bachelor Thesis: https://github.com/krsion/prague-sky-model-webcam-calibration
 
-**Hobby Projects:**
+**Hobby Projects**
 - Playground of Causal Broadcast https://krsion.github.io/causal-broadcast/
